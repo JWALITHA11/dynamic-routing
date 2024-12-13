@@ -8,7 +8,12 @@ function App() {
 
   return (
     <>
-      <div>Hiiiii</div>
+      <div>
+        <ul>
+          <li>Home</li>
+          <li>About</li>
+        </ul>
+      </div>
     </>
   )
 }
