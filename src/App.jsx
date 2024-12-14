@@ -12,6 +12,7 @@ function App() {
         <ul>
           <li>Home</li>
           <li>About</li>
+          <li>contact us</li>
         </ul>
       </div>
     </>
